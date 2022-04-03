@@ -1,4 +1,4 @@
---show last 1 week show.
+--show last 1 week performances.
 
 create view last1week_shows –19.07.21 & 25.07.21
 
